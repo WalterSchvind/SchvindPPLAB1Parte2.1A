@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1589972837 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\validaciones.c
+	"Validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589940940 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\validaciones.h
+
+1589986394 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Notebooks.h"
+	"Servicios.h"
+	"Trabajo.h"
+	"informes.h"
+
+1589924525 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"Marcas.h"
+
+1589924525 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"Tipo.h"
+
+1589983539 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\notebooks.h
+	"Marcas.h"
+	"Tipo.h"
+	"Cliente.h"
+
+1589944009 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\marcas.h
+
+1589945665 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\tipo.h
+
+1589983483 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\notebooks.c
+	"Notebooks.h"
+	"Validaciones.h"
+	"Servicios.h"
+	"Tipo.h"
+	"Marcas.h"
+	"Trabajo.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<ctype.h>
+
+1589942406 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"Servicios.h"
+
+1589945037 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\servicios.h
+
+1589943716 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\trabajo.h
+	"Notebooks.h"
+	"Servicios.h"
+
+1589945878 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\trabajo.c
+	"Trabajo.h"
+	"Validaciones.h"
+	"Servicios.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<ctype.h>
+
+1589983803 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\cliente.c
+	"Cliente.h"
+	"Validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<ctype.h>
+
+1589982495 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\cliente.h
+
+1589976910 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\datawarehouse.c
+
+1589980351 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\datawarehouse.h
+
+1589978748 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Notebooks.h"
+	"Servicios.h"
+	"Trabajo.h"
+
+1589983471 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\datos.h
+
+1589986239 source:c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"Notebooks.h"
+	"Servicios.h"
+	"Trabajo.h"
+	"informes.h"
+
+1589986224 c:\users\usuario\desktop\programacion\parciales\parcialprogramacion1\pplab1\informes.h
+
